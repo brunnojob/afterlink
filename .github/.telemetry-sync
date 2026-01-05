@@ -1,4 +1,3 @@
-date=2026-11-17
-seq=300
-ts=1794926317
-scope=redirect
+rev=1
+ts=1767646730
+scope=edge-cache
