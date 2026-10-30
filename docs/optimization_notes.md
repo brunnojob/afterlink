@@ -582,3 +582,5 @@
 
 * [2026-10-29 21:27:38] clean applied to type hints (Ref: 92ed5385-41)
 
+* [2026-10-29 21:27:38] improve applied to internal configs (Ref: 92ed5385-42)
+
