@@ -946,3 +946,5 @@
 
 * [2026-10-30 02:47:46] clean applied to module structure (Ref: 7edad051-23)
 
+* [2026-10-30 02:47:46] improve applied to internal configs (Ref: 7edad051-24)
+
