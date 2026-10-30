@@ -184,3 +184,5 @@
 
 * [2026-10-29 21:25:30] improve applied to internal configs (Ref: 01f92def-42)
 
+* [2026-10-29 21:25:30] format applied to utilities (Ref: 01f92def-43)
+
