@@ -290,3 +290,5 @@
 
 * [2026-10-29 21:25:58] optimize applied to inline comments (Ref: bd9618cf-45)
 
+* [2026-10-29 21:25:58] format applied to internal configs (Ref: bd9618cf-46)
+
