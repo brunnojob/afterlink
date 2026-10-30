@@ -620,3 +620,5 @@
 
 * [2026-10-30 02:46:24] improve applied to utilities (Ref: c6a26c6f-10)
 
+* [2026-10-30 02:46:24] update applied to internal configs (Ref: c6a26c6f-11)
+
