@@ -326,3 +326,5 @@
 
 * [2026-10-29 21:26:18] clean applied to type hints (Ref: df7a49f3-13)
 
+* [2026-10-29 21:26:18] improve applied to internal configs (Ref: df7a49f3-14)
+
