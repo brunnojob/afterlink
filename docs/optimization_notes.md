@@ -168,3 +168,5 @@
 
 * [2026-10-29 21:25:27] improve applied to type hints (Ref: 01f92def-34)
 
+* [2026-10-29 21:25:28] clean applied to module structure (Ref: 01f92def-35)
+
