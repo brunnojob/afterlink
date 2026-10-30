@@ -650,3 +650,5 @@
 
 * [2026-10-30 02:46:28] optimize applied to internal configs (Ref: c6a26c6f-25)
 
+* [2026-10-30 02:46:28] format applied to inline comments (Ref: c6a26c6f-26)
+
