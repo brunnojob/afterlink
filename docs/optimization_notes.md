@@ -572,3 +572,5 @@
 
 * [2026-10-29 21:27:37] format applied to type hints (Ref: 92ed5385-36)
 
+* [2026-10-29 21:27:37] clean applied to internal configs (Ref: 92ed5385-37)
+
