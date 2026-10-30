@@ -444,3 +444,5 @@
 
 * [2026-10-29 21:27:04] improve applied to internal configs (Ref: 07f0f85e-22)
 
+* [2026-10-29 21:27:05] improve applied to type hints (Ref: 07f0f85e-23)
+
