@@ -770,3 +770,5 @@
 
 * [2026-10-30 02:46:57] clean applied to utilities (Ref: 3b59fef2-35)
 
+* [2026-10-30 02:46:57] clean applied to inline comments (Ref: 3b59fef2-36)
+
