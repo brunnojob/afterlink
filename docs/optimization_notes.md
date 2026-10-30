@@ -942,3 +942,5 @@
 
 * [2026-10-30 02:47:45] format applied to internal configs (Ref: 7edad051-21)
 
+* [2026-10-30 02:47:45] format applied to utilities (Ref: 7edad051-22)
+
