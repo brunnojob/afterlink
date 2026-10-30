@@ -40,3 +40,5 @@
 
 * [2026-10-29 21:24:56] optimize applied to module structure (Ref: d906e92e-20)
 
+* [2026-10-29 21:24:58] improve applied to inline comments (Ref: d906e92e-21)
+
