@@ -1152,3 +1152,5 @@
 
 * [2026-10-30 02:48:31] format applied to module structure (Ref: ab05f749-26)
 
+* [2026-10-30 02:48:31] clean applied to inline comments (Ref: ab05f749-27)
+
