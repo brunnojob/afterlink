@@ -58,3 +58,5 @@
 
 * [2026-10-29 21:25:01] improve applied to type hints (Ref: d906e92e-29)
 
+* [2026-10-29 21:25:01] improve applied to module structure (Ref: d906e92e-30)
+
