@@ -254,3 +254,5 @@
 
 * [2026-10-29 21:25:51] optimize applied to inline comments (Ref: bd9618cf-27)
 
+* [2026-10-29 21:25:52] improve applied to inline comments (Ref: bd9618cf-28)
+
