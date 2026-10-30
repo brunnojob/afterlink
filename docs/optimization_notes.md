@@ -812,3 +812,5 @@
 
 * [2026-10-30 02:47:15] optimize applied to internal configs (Ref: efcc52fe-6)
 
+* [2026-10-30 02:47:15] improve applied to inline comments (Ref: efcc52fe-7)
+
