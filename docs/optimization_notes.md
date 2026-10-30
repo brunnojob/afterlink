@@ -784,3 +784,5 @@
 
 * [2026-10-30 02:46:59] optimize applied to internal configs (Ref: 3b59fef2-42)
 
+* [2026-10-30 02:46:59] format applied to utilities (Ref: 3b59fef2-43)
+
