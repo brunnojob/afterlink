@@ -230,3 +230,5 @@
 
 * [2026-10-29 21:25:48] optimize applied to utilities (Ref: bd9618cf-15)
 
+* [2026-10-29 21:25:49] improve applied to internal configs (Ref: bd9618cf-16)
+
