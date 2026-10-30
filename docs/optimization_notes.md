@@ -178,3 +178,5 @@
 
 * [2026-10-29 21:25:29] update applied to inline comments (Ref: 01f92def-39)
 
+* [2026-10-29 21:25:29] improve applied to module structure (Ref: 01f92def-40)
+
