@@ -590,3 +590,5 @@
 
 * [2026-10-29 21:27:39] optimize applied to internal configs (Ref: 92ed5385-45)
 
+* [2026-10-29 21:27:39] format applied to utilities (Ref: 92ed5385-46)
+
