@@ -404,3 +404,5 @@
 
 * [2026-10-29 21:26:51] update applied to internal configs (Ref: 07f0f85e-2)
 
+* [2026-10-29 21:26:52] improve applied to type hints (Ref: 07f0f85e-3)
+
