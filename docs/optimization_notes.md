@@ -270,3 +270,5 @@
 
 * [2026-10-29 21:25:55] update applied to internal configs (Ref: bd9618cf-35)
 
+* [2026-10-29 21:25:56] improve applied to inline comments (Ref: bd9618cf-36)
+
