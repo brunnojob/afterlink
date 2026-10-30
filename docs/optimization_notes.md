@@ -672,3 +672,5 @@
 
 * [2026-10-30 02:46:29] clean applied to utilities (Ref: c6a26c6f-36)
 
+* [2026-10-30 02:46:30] format applied to utilities (Ref: c6a26c6f-37)
+
