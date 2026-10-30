@@ -880,3 +880,5 @@
 
 * [2026-10-30 02:47:26] improve applied to inline comments (Ref: efcc52fe-40)
 
+* [2026-10-30 02:47:26] update applied to module structure (Ref: efcc52fe-41)
+
