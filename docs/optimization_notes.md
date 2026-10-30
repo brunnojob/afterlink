@@ -986,3 +986,5 @@
 
 * [2026-10-30 02:47:51] improve applied to utilities (Ref: 7edad051-43)
 
+* [2026-10-30 02:47:51] improve applied to internal configs (Ref: 7edad051-44)
+
