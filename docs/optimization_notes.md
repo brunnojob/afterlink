@@ -806,3 +806,5 @@
 
 * [2026-10-30 02:47:14] improve applied to internal configs (Ref: efcc52fe-3)
 
+* [2026-10-30 02:47:14] clean applied to internal configs (Ref: efcc52fe-4)
+
