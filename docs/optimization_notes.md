@@ -42,3 +42,5 @@
 
 * [2026-10-29 21:24:58] improve applied to inline comments (Ref: d906e92e-21)
 
+* [2026-10-29 21:24:58] format applied to internal configs (Ref: d906e92e-22)
+
