@@ -258,3 +258,5 @@
 
 * [2026-10-29 21:25:52] update applied to internal configs (Ref: bd9618cf-29)
 
+* [2026-10-29 21:25:53] improve applied to module structure (Ref: bd9618cf-30)
+
