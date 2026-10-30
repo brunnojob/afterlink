@@ -130,3 +130,5 @@
 
 * [2026-10-29 21:25:21] format applied to module structure (Ref: 01f92def-15)
 
+* [2026-10-29 21:25:21] format applied to inline comments (Ref: 01f92def-16)
+
