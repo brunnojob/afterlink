@@ -896,3 +896,5 @@
 
 * [2026-10-30 02:47:28] improve applied to inline comments (Ref: efcc52fe-48)
 
+* [2026-10-30 02:47:28] clean applied to internal configs (Ref: efcc52fe-49)
+
