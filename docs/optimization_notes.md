@@ -848,3 +848,5 @@
 
 * [2026-10-30 02:47:20] update applied to internal configs (Ref: efcc52fe-24)
 
+* [2026-10-30 02:47:20] improve applied to utilities (Ref: efcc52fe-25)
+
