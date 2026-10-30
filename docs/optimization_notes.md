@@ -1104,3 +1104,5 @@
 
 * [2026-10-30 02:48:27] format applied to module structure (Ref: ab05f749-2)
 
+* [2026-10-30 02:48:27] format applied to utilities (Ref: ab05f749-3)
+
