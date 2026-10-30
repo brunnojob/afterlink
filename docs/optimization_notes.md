@@ -96,3 +96,5 @@
 
 * [2026-10-29 21:25:05] clean applied to utilities (Ref: d906e92e-48)
 
+* [2026-10-29 21:25:05] clean applied to module structure (Ref: d906e92e-49)
+
