@@ -8,3 +8,5 @@
 
 * [2026-10-29 21:24:51] improve applied to type hints (Ref: d906e92e-4)
 
+* [2026-10-29 21:24:51] format applied to inline comments (Ref: d906e92e-5)
+
