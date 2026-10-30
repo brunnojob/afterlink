@@ -480,3 +480,5 @@
 
 * [2026-10-29 21:27:08] format applied to utilities (Ref: 07f0f85e-40)
 
+* [2026-10-29 21:27:08] clean applied to module structure (Ref: 07f0f85e-41)
+
