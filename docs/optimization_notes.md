@@ -4,3 +4,5 @@
 
 * [2026-10-29 21:24:51] improve applied to inline comments (Ref: d906e92e-2)
 
+* [2026-10-29 21:24:51] improve applied to internal configs (Ref: d906e92e-3)
+
