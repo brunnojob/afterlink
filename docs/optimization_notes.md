@@ -1132,3 +1132,5 @@
 
 * [2026-10-30 02:48:30] clean applied to utilities (Ref: ab05f749-16)
 
+* [2026-10-30 02:48:30] clean applied to internal configs (Ref: ab05f749-17)
+
