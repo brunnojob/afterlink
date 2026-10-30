@@ -1168,3 +1168,5 @@
 
 * [2026-10-30 02:48:33] improve applied to internal configs (Ref: ab05f749-34)
 
+* [2026-10-30 02:48:34] improve applied to module structure (Ref: ab05f749-35)
+
