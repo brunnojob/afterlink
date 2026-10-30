@@ -932,3 +932,5 @@
 
 * [2026-10-30 02:47:44] improve applied to module structure (Ref: 7edad051-16)
 
+* [2026-10-30 02:47:44] clean applied to utilities (Ref: 7edad051-17)
+
