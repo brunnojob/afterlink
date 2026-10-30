@@ -914,3 +914,5 @@
 
 * [2026-10-30 02:47:42] update applied to type hints (Ref: 7edad051-7)
 
+* [2026-10-30 02:47:42] improve applied to utilities (Ref: 7edad051-8)
+
