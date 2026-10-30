@@ -1088,3 +1088,5 @@
 
 * [2026-10-30 02:48:13] update applied to type hints (Ref: 2fbcf6bb-44)
 
+* [2026-10-30 02:48:14] improve applied to inline comments (Ref: 2fbcf6bb-45)
+
