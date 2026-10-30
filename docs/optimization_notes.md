@@ -282,3 +282,5 @@
 
 * [2026-10-29 21:25:57] update applied to type hints (Ref: bd9618cf-41)
 
+* [2026-10-29 21:25:57] improve applied to inline comments (Ref: bd9618cf-42)
+
