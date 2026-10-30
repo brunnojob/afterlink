@@ -780,3 +780,5 @@
 
 * [2026-10-30 02:46:59] update applied to type hints (Ref: 3b59fef2-40)
 
+* [2026-10-30 02:46:59] clean applied to internal configs (Ref: 3b59fef2-41)
+
