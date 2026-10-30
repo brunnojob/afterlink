@@ -210,3 +210,5 @@
 
 * [2026-10-29 21:25:45] format applied to internal configs (Ref: bd9618cf-5)
 
+* [2026-10-29 21:25:45] clean applied to internal configs (Ref: bd9618cf-6)
+
