@@ -276,3 +276,5 @@
 
 * [2026-10-29 21:25:56] optimize applied to internal configs (Ref: bd9618cf-38)
 
+* [2026-10-29 21:25:56] improve applied to type hints (Ref: bd9618cf-39)
+
