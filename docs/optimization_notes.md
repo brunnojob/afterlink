@@ -120,3 +120,5 @@
 
 * [2026-10-29 21:25:20] improve applied to type hints (Ref: 01f92def-10)
 
+* [2026-10-29 21:25:20] improve applied to internal configs (Ref: 01f92def-11)
+
