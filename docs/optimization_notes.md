@@ -36,3 +36,5 @@
 
 * [2026-10-29 21:24:55] format applied to utilities (Ref: d906e92e-18)
 
+* [2026-10-29 21:24:56] clean applied to internal configs (Ref: d906e92e-19)
+
