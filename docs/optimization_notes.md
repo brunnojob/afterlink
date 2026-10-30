@@ -78,3 +78,5 @@
 
 * [2026-10-29 21:25:03] update applied to module structure (Ref: d906e92e-39)
 
+* [2026-10-29 21:25:03] update applied to internal configs (Ref: d906e92e-40)
+
