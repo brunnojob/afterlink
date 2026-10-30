@@ -128,3 +128,5 @@
 
 * [2026-10-29 21:25:21] format applied to internal configs (Ref: 01f92def-14)
 
+* [2026-10-29 21:25:21] format applied to module structure (Ref: 01f92def-15)
+
