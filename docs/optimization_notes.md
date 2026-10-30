@@ -238,3 +238,5 @@
 
 * [2026-10-29 21:25:50] clean applied to utilities (Ref: bd9618cf-19)
 
+* [2026-10-29 21:25:50] clean applied to internal configs (Ref: bd9618cf-20)
+
