@@ -1134,3 +1134,5 @@
 
 * [2026-10-30 02:48:30] clean applied to internal configs (Ref: ab05f749-17)
 
+* [2026-10-30 02:48:30] clean applied to type hints (Ref: ab05f749-18)
+
