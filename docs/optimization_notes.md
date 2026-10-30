@@ -868,3 +868,5 @@
 
 * [2026-10-30 02:47:23] improve applied to inline comments (Ref: efcc52fe-34)
 
+* [2026-10-30 02:47:24] update applied to internal configs (Ref: efcc52fe-35)
+
