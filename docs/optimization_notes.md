@@ -1156,3 +1156,5 @@
 
 * [2026-10-30 02:48:32] format applied to utilities (Ref: ab05f749-28)
 
+* [2026-10-30 02:48:32] clean applied to module structure (Ref: ab05f749-29)
+
