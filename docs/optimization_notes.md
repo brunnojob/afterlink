@@ -6,3 +6,5 @@
 
 * [2026-10-29 21:24:51] improve applied to internal configs (Ref: d906e92e-3)
 
+* [2026-10-29 21:24:51] improve applied to type hints (Ref: d906e92e-4)
+
