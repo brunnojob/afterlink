@@ -874,3 +874,5 @@
 
 * [2026-10-30 02:47:24] improve applied to utilities (Ref: efcc52fe-37)
 
+* [2026-10-30 02:47:24] clean applied to module structure (Ref: efcc52fe-38)
+
