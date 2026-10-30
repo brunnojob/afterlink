@@ -212,3 +212,5 @@
 
 * [2026-10-29 21:25:45] clean applied to internal configs (Ref: bd9618cf-6)
 
+* [2026-10-29 21:25:46] clean applied to inline comments (Ref: bd9618cf-7)
+
