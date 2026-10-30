@@ -794,3 +794,5 @@
 
 * [2026-10-30 02:47:00] format applied to internal configs (Ref: 3b59fef2-47)
 
+* [2026-10-30 02:47:00] format applied to inline comments (Ref: 3b59fef2-48)
+
