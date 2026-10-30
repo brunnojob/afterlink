@@ -300,3 +300,5 @@
 
 * [2026-10-29 21:25:59] clean applied to inline comments (Ref: bd9618cf-50)
 
+* [2026-10-29 21:26:15] format applied to utilities (Ref: df7a49f3-1)
+
