@@ -118,3 +118,5 @@
 
 * [2026-10-29 21:25:19] format applied to internal configs (Ref: 01f92def-9)
 
+* [2026-10-29 21:25:20] improve applied to type hints (Ref: 01f92def-10)
+
