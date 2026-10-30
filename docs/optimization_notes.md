@@ -948,3 +948,5 @@
 
 * [2026-10-30 02:47:46] improve applied to internal configs (Ref: 7edad051-24)
 
+* [2026-10-30 02:47:46] format applied to inline comments (Ref: 7edad051-25)
+
