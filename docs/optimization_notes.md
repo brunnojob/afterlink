@@ -834,3 +834,5 @@
 
 * [2026-10-30 02:47:18] optimize applied to internal configs (Ref: efcc52fe-17)
 
+* [2026-10-30 02:47:18] clean applied to inline comments (Ref: efcc52fe-18)
+
