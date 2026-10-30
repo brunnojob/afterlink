@@ -856,3 +856,5 @@
 
 * [2026-10-30 02:47:22] update applied to type hints (Ref: efcc52fe-28)
 
+* [2026-10-30 02:47:22] optimize applied to internal configs (Ref: efcc52fe-29)
+
