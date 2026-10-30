@@ -250,3 +250,5 @@
 
 * [2026-10-29 21:25:51] update applied to inline comments (Ref: bd9618cf-25)
 
+* [2026-10-29 21:25:51] improve applied to utilities (Ref: bd9618cf-26)
+
