@@ -24,3 +24,5 @@
 
 * [2026-10-29 21:24:53] improve applied to utilities (Ref: d906e92e-12)
 
+* [2026-10-29 21:24:53] update applied to internal configs (Ref: d906e92e-13)
+
