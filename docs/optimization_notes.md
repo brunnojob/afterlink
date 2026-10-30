@@ -180,3 +180,5 @@
 
 * [2026-10-29 21:25:29] improve applied to module structure (Ref: 01f92def-40)
 
+* [2026-10-29 21:25:29] format applied to module structure (Ref: 01f92def-41)
+
