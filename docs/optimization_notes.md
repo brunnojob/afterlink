@@ -106,3 +106,5 @@
 
 * [2026-10-29 21:25:18] improve applied to type hints (Ref: 01f92def-3)
 
+* [2026-10-29 21:25:18] update applied to utilities (Ref: 01f92def-4)
+
