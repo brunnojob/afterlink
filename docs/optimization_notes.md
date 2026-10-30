@@ -284,3 +284,5 @@
 
 * [2026-10-29 21:25:57] improve applied to inline comments (Ref: bd9618cf-42)
 
+* [2026-10-29 21:25:58] format applied to utilities (Ref: bd9618cf-43)
+
