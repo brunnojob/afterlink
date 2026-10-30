@@ -124,3 +124,5 @@
 
 * [2026-10-29 21:25:20] optimize applied to utilities (Ref: 01f92def-12)
 
+* [2026-10-29 21:25:20] format applied to internal configs (Ref: 01f92def-13)
+
