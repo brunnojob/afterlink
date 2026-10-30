@@ -102,3 +102,5 @@
 
 * [2026-10-29 21:25:18] format applied to internal configs (Ref: 01f92def-1)
 
+* [2026-10-29 21:25:18] clean applied to internal configs (Ref: 01f92def-2)
+
