@@ -376,3 +376,5 @@
 
 * [2026-10-29 21:26:23] clean applied to utilities (Ref: df7a49f3-38)
 
+* [2026-10-29 21:26:23] format applied to type hints (Ref: df7a49f3-39)
+
