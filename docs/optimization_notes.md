@@ -156,3 +156,5 @@
 
 * [2026-10-29 21:25:26] improve applied to utilities (Ref: 01f92def-28)
 
+* [2026-10-29 21:25:26] update applied to internal configs (Ref: 01f92def-29)
+
