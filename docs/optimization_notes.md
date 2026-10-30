@@ -236,3 +236,5 @@
 
 * [2026-10-29 21:25:50] improve applied to module structure (Ref: bd9618cf-18)
 
+* [2026-10-29 21:25:50] clean applied to utilities (Ref: bd9618cf-19)
+
