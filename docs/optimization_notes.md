@@ -962,3 +962,5 @@
 
 * [2026-10-30 02:47:48] improve applied to module structure (Ref: 7edad051-31)
 
+* [2026-10-30 02:47:48] format applied to inline comments (Ref: 7edad051-32)
+
