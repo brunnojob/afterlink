@@ -1188,3 +1188,5 @@
 
 * [2026-10-30 02:48:35] format applied to internal configs (Ref: ab05f749-44)
 
+* [2026-10-30 02:48:36] format applied to module structure (Ref: ab05f749-45)
+
