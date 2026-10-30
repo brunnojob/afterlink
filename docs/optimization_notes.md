@@ -522,3 +522,5 @@
 
 * [2026-10-29 21:27:31] update applied to inline comments (Ref: 92ed5385-11)
 
+* [2026-10-29 21:27:31] clean applied to internal configs (Ref: 92ed5385-12)
+
