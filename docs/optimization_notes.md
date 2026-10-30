@@ -328,3 +328,5 @@
 
 * [2026-10-29 21:26:18] improve applied to internal configs (Ref: df7a49f3-14)
 
+* [2026-10-29 21:26:18] format applied to internal configs (Ref: df7a49f3-15)
+
