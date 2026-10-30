@@ -188,3 +188,5 @@
 
 * [2026-10-29 21:25:30] clean applied to internal configs (Ref: 01f92def-44)
 
+* [2026-10-29 21:25:30] clean applied to module structure (Ref: 01f92def-45)
+
