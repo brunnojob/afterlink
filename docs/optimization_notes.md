@@ -218,3 +218,5 @@
 
 * [2026-10-29 21:25:46] update applied to type hints (Ref: bd9618cf-9)
 
+* [2026-10-29 21:25:46] clean applied to internal configs (Ref: bd9618cf-10)
+
