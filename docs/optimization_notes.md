@@ -116,3 +116,5 @@
 
 * [2026-10-29 21:25:19] format applied to utilities (Ref: 01f92def-8)
 
+* [2026-10-29 21:25:19] format applied to internal configs (Ref: 01f92def-9)
+
