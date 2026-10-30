@@ -86,3 +86,5 @@
 
 * [2026-10-29 21:25:04] clean applied to inline comments (Ref: d906e92e-43)
 
+* [2026-10-29 21:25:04] clean applied to internal configs (Ref: d906e92e-44)
+
