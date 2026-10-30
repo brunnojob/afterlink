@@ -988,3 +988,5 @@
 
 * [2026-10-30 02:47:51] improve applied to internal configs (Ref: 7edad051-44)
 
+* [2026-10-30 02:47:52] clean applied to internal configs (Ref: 7edad051-45)
+
