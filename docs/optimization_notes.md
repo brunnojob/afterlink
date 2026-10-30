@@ -632,3 +632,5 @@
 
 * [2026-10-30 02:46:25] clean applied to internal configs (Ref: c6a26c6f-16)
 
+* [2026-10-30 02:46:26] clean applied to module structure (Ref: c6a26c6f-17)
+
