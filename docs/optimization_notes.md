@@ -162,3 +162,5 @@
 
 * [2026-10-29 21:25:26] optimize applied to type hints (Ref: 01f92def-31)
 
+* [2026-10-29 21:25:27] optimize applied to internal configs (Ref: 01f92def-32)
+
