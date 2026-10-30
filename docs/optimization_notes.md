@@ -176,3 +176,5 @@
 
 * [2026-10-29 21:25:28] format applied to internal configs (Ref: 01f92def-38)
 
+* [2026-10-29 21:25:29] update applied to inline comments (Ref: 01f92def-39)
+
