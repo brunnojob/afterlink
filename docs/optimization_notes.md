@@ -72,3 +72,5 @@
 
 * [2026-10-29 21:25:02] update applied to type hints (Ref: d906e92e-36)
 
+* [2026-10-29 21:25:02] improve applied to internal configs (Ref: d906e92e-37)
+
