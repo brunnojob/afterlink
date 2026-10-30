@@ -510,3 +510,5 @@
 
 * [2026-10-29 21:27:30] optimize applied to internal configs (Ref: 92ed5385-5)
 
+* [2026-10-29 21:27:30] clean applied to module structure (Ref: 92ed5385-6)
+
