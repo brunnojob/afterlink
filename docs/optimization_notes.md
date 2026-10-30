@@ -1180,3 +1180,5 @@
 
 * [2026-10-30 02:48:35] improve applied to utilities (Ref: ab05f749-40)
 
+* [2026-10-30 02:48:35] update applied to internal configs (Ref: ab05f749-41)
+
