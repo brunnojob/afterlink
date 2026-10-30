@@ -1190,3 +1190,5 @@
 
 * [2026-10-30 02:48:36] format applied to module structure (Ref: ab05f749-45)
 
+* [2026-10-30 02:48:36] clean applied to internal configs (Ref: ab05f749-46)
+
