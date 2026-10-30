@@ -894,3 +894,5 @@
 
 * [2026-10-30 02:47:28] optimize applied to internal configs (Ref: efcc52fe-47)
 
+* [2026-10-30 02:47:28] improve applied to inline comments (Ref: efcc52fe-48)
+
