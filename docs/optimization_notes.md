@@ -1036,3 +1036,5 @@
 
 * [2026-10-30 02:48:08] improve applied to internal configs (Ref: 2fbcf6bb-18)
 
+* [2026-10-30 02:48:08] update applied to module structure (Ref: 2fbcf6bb-19)
+
