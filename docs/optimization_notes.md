@@ -906,3 +906,5 @@
 
 * [2026-10-30 02:47:41] improve applied to inline comments (Ref: 7edad051-3)
 
+* [2026-10-30 02:47:41] update applied to internal configs (Ref: 7edad051-4)
+
