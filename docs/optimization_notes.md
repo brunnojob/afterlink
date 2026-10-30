@@ -390,3 +390,5 @@
 
 * [2026-10-29 21:26:24] update applied to module structure (Ref: df7a49f3-45)
 
+* [2026-10-29 21:26:25] clean applied to internal configs (Ref: df7a49f3-46)
+
