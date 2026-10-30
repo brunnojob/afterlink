@@ -1186,3 +1186,5 @@
 
 * [2026-10-30 02:48:35] clean applied to utilities (Ref: ab05f749-43)
 
+* [2026-10-30 02:48:35] format applied to internal configs (Ref: ab05f749-44)
+
