@@ -1628,3 +1628,5 @@
 
 * [2026-10-31 01:19:44] format applied to inline comments (Ref: 0c80ba82-14)
 
+* [2026-10-31 01:19:44] improve applied to inline comments (Ref: 0c80ba82-15)
+
