@@ -1538,3 +1538,5 @@
 
 * [2026-10-31 01:19:21] update applied to internal configs (Ref: e11644fb-19)
 
+* [2026-10-31 01:19:21] improve applied to type hints (Ref: e11644fb-20)
+
