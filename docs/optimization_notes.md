@@ -1420,3 +1420,5 @@
 
 * [2026-10-31 01:18:58] optimize applied to internal configs (Ref: 2563fdba-10)
 
+* [2026-10-31 01:18:58] clean applied to inline comments (Ref: 2563fdba-11)
+
