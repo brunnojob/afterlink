@@ -1222,3 +1222,5 @@
 
 * [2026-10-31 01:18:04] format applied to internal configs (Ref: 57eabad5-11)
 
+* [2026-10-31 01:18:04] improve applied to internal configs (Ref: 57eabad5-12)
+
