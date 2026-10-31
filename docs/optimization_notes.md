@@ -1248,3 +1248,5 @@
 
 * [2026-10-31 01:18:06] format applied to module structure (Ref: 57eabad5-24)
 
+* [2026-10-31 01:18:06] improve applied to internal configs (Ref: 57eabad5-25)
+
