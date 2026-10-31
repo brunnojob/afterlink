@@ -1424,3 +1424,5 @@
 
 * [2026-10-31 01:18:58] update applied to internal configs (Ref: 2563fdba-12)
 
+* [2026-10-31 01:18:58] improve applied to module structure (Ref: 2563fdba-13)
+
