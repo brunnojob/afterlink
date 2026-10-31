@@ -1720,3 +1720,5 @@
 
 * [2026-10-31 01:20:05] optimize applied to module structure (Ref: 5fc8d4fc-10)
 
+* [2026-10-31 01:20:05] format applied to utilities (Ref: 5fc8d4fc-11)
+
