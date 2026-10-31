@@ -1544,3 +1544,5 @@
 
 * [2026-10-31 01:19:22] optimize applied to internal configs (Ref: e11644fb-22)
 
+* [2026-10-31 01:19:22] optimize applied to module structure (Ref: e11644fb-23)
+
