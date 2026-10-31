@@ -1260,3 +1260,5 @@
 
 * [2026-10-31 01:18:06] clean applied to utilities (Ref: 57eabad5-30)
 
+* [2026-10-31 01:18:07] improve applied to module structure (Ref: 57eabad5-31)
+
