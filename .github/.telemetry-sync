@@ -1,4 +1,4 @@
 date=2026-11-21
-seq=143
-ts=1795230869
-scope=resolver
+seq=144
+ts=1795230870
+scope=edge-cache
